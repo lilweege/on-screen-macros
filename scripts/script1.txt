@@ -1,0 +1,20 @@
+NEXT`arrow.png
+RUN cd C:\ & dir`stop.gif
+RUN echo Hello`stop.gif
+RUN "C:\Users\Luigi\AppData\Local\Citra\nightly-mingw\citra-qt.exe"`stop.gif
+QUIT`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
+MACRO cmd i`stop.gif
